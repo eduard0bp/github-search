@@ -3,7 +3,7 @@ import styled from 'styled-components'
 export const HeaderSection = styled.header`
   width: 400px;
   height: 130px;
-  background: rgba(255, 255, 255, 0.2);
+  background: #16d3ac;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
@@ -48,7 +48,7 @@ export const HeaderSearchButton = styled.button`
   height: 30px;
   border-radius: 15px;
   border: none;
-  background: #ff7a00;
+  background: #ff0991;
   margin-left: 10px;
   display: flex;
   align-items: center;

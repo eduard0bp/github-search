@@ -5,6 +5,6 @@ export const Section = styled.section`
   height: 300px;
   background: rgba(255, 255, 255, 0.95);
   border-radius: 10px;
-  border-bottom: 10px solid #ff7a00;
+  border-bottom: 10px solid #ff0991;
   margin-top: 15px;
 `

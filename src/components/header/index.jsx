@@ -10,7 +10,7 @@ import {
 
 const Header = () => (
   <HeaderSection>
-    <HeaderTitle>Github Profile</HeaderTitle>
+    <HeaderTitle>Projeto GitHub</HeaderTitle>
     <HeaderInputContainer>
       <HeaderInput />
 
