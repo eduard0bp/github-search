@@ -30,7 +30,7 @@ export const Description = styled.p`
   height: 30px;
   margin: 10px 0;
   font-size: 12px;
-  text-align: justify;
+  text-align: center;
   color: #777;
   line-height: 1.3;
   overflow: hidden;
