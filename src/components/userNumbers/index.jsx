@@ -15,7 +15,7 @@ const UserNumbers = props => {
         <h1>{props.followers}</h1>
         <h2>Seguidores</h2>
       </NumberContainer>
-      <NumberContainer onClick={() => handleOnClick('/follow')}>
+      <NumberContainer onClick={() => handleOnClick('/following')}>
         <h1>{props.following}</h1>
         <h2>Seguindo</h2>
       </NumberContainer>

@@ -1,6 +1,6 @@
 import React, { useContext } from "react"
 import { Container } from "../components/container/styles"
-import ReposContainer from "../components/reposContainer"
+import ReposContainer from "../components/reposContainer/ReposContainer"
 import { context } from "../context"
 
 const Repos = props => {

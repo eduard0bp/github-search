@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Section = styled.section`
-  width: 400px;
+  width: 800px;
   height: 400px;
   background-color: rgba(255, 255, 255, .95);
   border-radius: 10px;
@@ -22,14 +22,14 @@ export const Title = styled.h1`
   height: 30px;
 `
 
-export const ListOfReposContainer = styled.h1`
+export const ListOfFollowersContainer = styled.h1`
   height: 350px;
   width: 100%;
   padding: 10px;
   overflow-y: scroll;
 `
 
-export const Repo = styled.h2`
+export const Followers = styled.h2`
   width: 100%;
   height: 80px;
   background: rgba(0, 0, 0, .05);
@@ -52,4 +52,7 @@ export const Repo = styled.h2`
     line-height: 1.3;
     margin-top: 10px;
   }
+`
+export const Button = styled.button`
+  width: 100%;
 `

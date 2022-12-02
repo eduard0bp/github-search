@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 export const HeaderSection = styled.header`
-  width: 400px;
+  width: 800px;
   height: 130px;
   background: #16d3ac;
   border-radius: 10px;
@@ -28,7 +28,7 @@ export const HeaderInputContainer = styled.div`
 `
 
 export const HeaderInput = styled.input`
-  width: 200px;
+  width: 500px;
   height: 30px;
   border-radius: 15px;
   border: none;
@@ -38,7 +38,6 @@ export const HeaderInput = styled.input`
 
   &:focus {
     outline: none;
-    width: 220px;
     transition: 0.4s ease;
   }
 `

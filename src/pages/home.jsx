@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
-import Container from '../components/container'
-import Header from '../components/header'
+import Container from '../components/container/'
+import Header from '../components/header/Header'
 import UserContainer from '../components/userContainer'
 import UserNumbers from '../components/userNumbers'
 import UserPicture from '../components/userPicture'
